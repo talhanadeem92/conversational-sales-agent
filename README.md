@@ -173,5 +173,5 @@ No external installations needed.
 If you have any questions, feel free to reach out:
 
 Email: talhadogar1177@gmail.com
-GitHub: [your-github-username](https://github.com/talhanadeem92)
+GitHub: (https://github.com/talhanadeem92)
 
