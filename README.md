@@ -23,18 +23,21 @@ This project demonstrates a conversational sales agent built using **Python** an
 
 ---
 
-## 🗂️ File Structure
 
-```
 
-project/
-├── main.py              # Entry point to run the agent and simulation
-├── lead\_agent.py        # Logic for the conversational agent
-├── config\_and\_csv.py    # CSV writing logic and configuration
-├── leads.csv            # Stores all collected lead data
-└── README.md            # Documentation
+---
+🧰 Project Structure
+bash
+Copy
+Edit
+.
+├── main.py                # Entry point to run the simulation
+├── lead_agent.py          # Agent logic and conversation handling
+├── config_and_csv.py      # Configuration, CSV handling, and sample leads
+├── leads.csv              # Output file where lead data is stored
+└── README.md              # Project documentation
+---
 
-````
 
 ---
 
