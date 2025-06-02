@@ -26,7 +26,7 @@ This project demonstrates a conversational sales agent built using **Python** an
 
 ---
 ```
-###🧰 Project Structure
+### 🧰 Project Structure
 ```
 ---
 
