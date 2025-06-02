@@ -1,9 +1,9 @@
 
-
----
-
 ```markdown
 # 🤖 Conversational Sales Agent using Google ADK (Python)
+---
+
+
 
 This project demonstrates a conversational sales agent built using **Python** and simulating the behavior of Google's **Agent Development Kit (ADK)**. It supports concurrent conversations with multiple leads, collects important information, sends follow-ups, and saves the data into a CSV file.
 
