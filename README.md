@@ -143,26 +143,25 @@ Only standard Python libraries are used:
 No external installations needed.
 
 ---
+📚 **References**
+- [Google ADK on GitHub](https://github.com/google/generative-ai-docs/tree/main/gemini/agent-development-kit)
+- [Gemini Agent API Docs](https://ai.google.dev/gemini-api/docs/agent-development-kit/overview)
 
-## 🧑‍💻 Author
+✅ Submission Checklist
+ Source Code: main.py, lead_agent.py, config_and_csv.py
 
-**Your Name**
-GitHub: \[[https://github.com/your-username](https://github.com/your-username)]
-Email: \[[your-email@example.com](mailto:your-email@example.com)]
+ Data File: leads.csv
 
----
+ Demonstration Video
 
-## 📄 License
+ README File
 
-This project is shared for educational purposes under the [MIT License](LICENSE).
+ Simulation Scripts (inside main.py)
 
-```
 
----
+📩 Contact
+If you have any questions, feel free to reach out:
 
-Would you like me to generate:
-- The actual `requirements.txt` (even though it’s optional)?
-- A zipped final submission folder?
+Email: talhadogar1177@gmail.com
+GitHub: [your-github-username](https://github.com/talhanadeem92)
 
-Let me know, and I’ll prepare it for you.
-```
