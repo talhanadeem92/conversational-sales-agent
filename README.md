@@ -108,8 +108,10 @@ python main.py
 
 ## 📹 Demo Video
 
-🎥 [\[Insert your demo video link here – YouTube / Google Drive]
-](https://drive.google.com/file/d/1Cv7p8MXMCilm9ElaHLAxCTCu9utPN9kN/view?usp=sharing)
+
+Watch the demo of the Sales Agent in action:
+
+[▶️ Click here to view the video](https://drive.google.com/file/d/1Cv7p8MXMCilm9ElaHLAxCTCu9utPN9kN/view?usp=sharing)
 * Shows concurrent lead interactions
 * Follow-up for unresponsive users
 * Data saved to CSV
